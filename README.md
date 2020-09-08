@@ -1,2 +1,2 @@
 # Shopify Data Challenge 
-* You could also click here to view the Shopify Data Challenge Notebook [Data Challenge Notebook]
+* You could also click here to view the Shopify Data Challenge Notebook [Data Challenge Notebook](https://nbviewer.jupyter.org/github/FunCodingPanda/Shopify_Challenge/blob/master/Data_Intern_Challenge_2020.ipynb)
